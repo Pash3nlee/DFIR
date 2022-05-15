@@ -1,5 +1,5 @@
 # Digital Forensics and Incident Response
-![](https://images.gemquery.com/224/thumb_content_2240211.jpg)
+![](https://phonoteka.org/uploads/posts/2021-05/thumbs/1622208355_11-phonoteka_org-p-piksel-art-kompyuter-krasivo-12.jpg)
 ###### since 01.05.2022
 
 ## Tools
