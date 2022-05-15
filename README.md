@@ -1,5 +1,5 @@
 # Digital Forensics and Incident Response
-![](http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/8d6f864fb9de925.png)
+![](https://cdnb.artstation.com/p/assets/images/images/007/413/479/large/althea-krebelj-pixel-computer.jpg?1505969564)
 ###### since 01.05.2022
 
 ## Tools
