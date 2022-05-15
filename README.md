@@ -4,4 +4,4 @@
 
 ## CheatSheets
 
-* ### Volatility [:feet:](https://github.com/Pash3nlee/HackTheBox/blob/main/Easy/Laboratory.md)
+* ### Volatility [:feet:](Volatility.md)
