@@ -2,44 +2,22 @@
 
 
 #### Discover Profile
-
 ```
 vol.py -f MEMORY_FILE.raw imageinfo
 vol.py -f MEMORY_FILE.raw kdbgscan
 ```
 
 #### TEST
-
 ```
 vol.py -f MEMORY_FILE.raw --profile=PROFILE TEST
 ```
 
 #### TEST
-
 ```
 vol.py -f MEMORY_FILE.raw --profile=PROFILE TEST
 ```
 
 #### TEST
-
-```
-vol.py -f MEMORY_FILE.raw --profile=PROFILE TEST
-```
-
-#### TEST
-
-```
-vol.py -f MEMORY_FILE.raw --profile=PROFILE TEST
-```
-
-#### TEST
-
-```
-vol.py -f MEMORY_FILE.raw --profile=PROFILE TEST
-```
-
-#### TEST
-
 ```
 vol.py -f MEMORY_FILE.raw --profile=PROFILE TEST
 ```
