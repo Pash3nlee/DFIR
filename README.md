@@ -1,5 +1,5 @@
 # Digital Forensics and Incident Response
-![](https://cdnb.artstation.com/p/assets/images/images/007/413/479/large/althea-krebelj-pixel-computer.jpg?1505969564)
+![](https://images.gemquery.com/224/thumb_content_2240211.jpg)
 ###### since 01.05.2022
 
 ## Tools
